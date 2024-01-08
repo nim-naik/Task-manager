@@ -1,0 +1,10 @@
+mama
+Name: Nimisha 
+Address :Kandarpada
+Age :12
+TASK 1 :write
+TARGET 1 :3
+TASK 2 :read
+TARGET 2 : today
+TASK 1 : drink water
+TARGET 1 : after 2
